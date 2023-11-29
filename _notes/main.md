@@ -1,10 +1,3 @@
----
-layout: page
-title: Home
-id: home
-permalink: /main
----
-
 <div align="center"> 
 	
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&text=junyjeon&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
